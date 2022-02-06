@@ -25,7 +25,7 @@ imageView.dq.setQr(from: "value typed of string")
 - File > Swift Packages > Add Package Dependency
 - Add ```https://github.com/donggyushin/DGQR.git```
 
-## CocoaPods
+### CocoaPods
 ```
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '12.0'
