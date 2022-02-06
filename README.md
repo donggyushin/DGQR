@@ -1,7 +1,7 @@
 # DGQR
 
 <img src="https://user-images.githubusercontent.com/34573243/152682041-f553ceb6-d1b2-419e-8dd3-ffc6ac6b7216.png" width=250 /> <br/>
-DGQR is a lightweight, pure-Swift library for rendering qr. It provides you a change to use a pure-Swift way to work with qr image in your next app. 
+DGQR is a lightweight, pure-Swift library for rendering qr. It provides you a chance to use a pure-Swift way to work with qr image in your next app. 
 
 ## Features
 - [x] Drawing qr code image from ```string``` value
@@ -25,7 +25,7 @@ imageView.dq.setQr(from: "value typed of string")
 - File > Swift Packages > Add Package Dependency
 - Add ```https://github.com/donggyushin/DGQR.git```
 
-CocoaPods
+## CocoaPods
 ```
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '12.0'
